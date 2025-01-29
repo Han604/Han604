@@ -1,8 +1,8 @@
-Hi, I’m Eric Han (He/Him)!
-I’m a Front-End developer who also works independently in fashion design
+Full-Stack Dev + Fashion designer, nice to meet you my name is Eric.
 
-eric_h94@hotmail.com if you want to get in touch!
+React + Typescript + NextJS + NodeJS + Express + Mongo + Postgres + Ruby on rails
 
-Compassionate developers write compassionate code.
+SD III @ Greenshield Labs
 
-|REACT|REDUX|JAVASCRIPT ES6|CSS|HTML|NODE|TYPESCRIPT|EXPRESS|MONGO|
+@dangerhan
+@pillarbrand
